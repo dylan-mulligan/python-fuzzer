@@ -1,6 +1,4 @@
-# fuzzer-swen331-02-dtm5568
-
-## Fuzzer
+# Python Fuzzer - SWEN 331: Engineering Secure Software
 
 ## Description
 An exploratory testing tool used for finding weaknesses in a program by scanning its attack surface.
